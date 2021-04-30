@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Tramontina DEV
-- 🌱 I’m a Typescript boy
-- 📫 How to reach me: ...
+- 💻 I’m a Typescript boy, but I also work with Java and yearning to learn C#
+- 📫 How to reach me: https://www.linkedin.com/in/joao-pedro-basso-audibert/
 - ⚡ Fun fact: Mike Tyson is my brother
 
 
