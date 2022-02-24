@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Tramontina DEV
 - 💻 I’m a Typescript boy, but I also work with Java and yearning to learn C#
 - 📫 How to reach me: https://www.linkedin.com/in/joao-pedro-basso-audibert/
-- ⚡ Fun fact: Mike Tyson is my brother
+- ⚡ Fun fact: Mike Tyson is my brother 🥋
 
 ![CSharp](https://img.shields.io/badge/-.Net-CB96F8?style=flat-square&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
