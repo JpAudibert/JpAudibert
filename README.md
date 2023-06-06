@@ -1,6 +1,6 @@
 ### Yeee-Haw 👋
 
-- 🔭 I’m currently working on Tramontina DEV
+- 🔭 I’m currently working at Dell Technologies INC.
 - 💻 I’m a .Net and Typescript boy, but I also have worked, in some dark days, with Java
 - 📫 How to reach me: https://www.linkedin.com/in/joao-pedro-basso-audibert/
 - ⚡ Fun fact: Mike Tyson is my brother 🥋
